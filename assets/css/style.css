@@ -1,0 +1,14 @@
+body{
+	background-image: url('../img/p2.jpg');
+}
+.navbar{
+	background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,208,105,1) 0%, rgba(228,71,255,1) 100%);
+}
+footer{
+	background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,208,105,1) 0%, rgba(228,71,255,1) 100%);
+}
+.btn{
+	background-color: #36a2f5;
+}
